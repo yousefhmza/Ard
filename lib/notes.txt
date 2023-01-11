@@ -1,0 +1,11 @@
+Password for mapbox set at package path
+/Users/hurab/development/flutter_ver_2.10.0/flutter/.pub-cache/hosted/pub.dartlang.org/mapbox_gl-0.16.0
+
+password = "sk.eyJ1IjoibWF0cmljbG91ZHMiLCJhIjoiY2w3ZzNveG5hMDB1MjN1bzBzbHh2OW83dSJ9._TBqUUj-wmorTzt5VeSiZg"
+flutter run --dart-define ACCESS_TOKEN=sk.eyJ1IjoibWF0cmljbG91ZHMiLCJhIjoiY2xhemRwbWF2MHFheDN2b3EyN21obGFvNSJ9.-TFoJt5QTUOIh0qiP1tT4w
+
+# ---------------------------------------------------------------------------- #
+
+Login
+Phone 01095470923
+OTP  0000
